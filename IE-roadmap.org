@@ -253,3 +253,22 @@ plans. Refer to screenshot below:
 [[./Step-2.png]]
 
 Step-3: Click on "Finish signup" to finish the final step.
+
+** Creating a Repository  
+
+*** Creation of teams.  
+ We have 2 teams namely, Owners and Integrators.  
+ + Owners - Owners will create the repositories
+ + Integrators - Integrators will commit and push changes.
+
+*** Process for repository creation :: 
+ An integrator will make a request to the VLEAD for creation of a
+ repository. The request has to be sent to the following mail id for repository creation.
+ engg@virtual-labs.ac.in
+ 
+*** Naming convention of the repository :: 
+        Engineer has to send the following data for repository creation. 
+        + Discipline
+        + LabName
+        + InstituteName
+
